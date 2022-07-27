@@ -1,0 +1,42 @@
+.intro p {
+    font-family: 'Source Code Pro', monospace;
+    margin: 12px;
+}
+
+.intro h2 {
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: bolder;
+    margin: 12px;
+}
+.skillcontainer{
+    padding: 12px;
+}
+.intro{
+    margin-top: 40px;
+    margin-left: 88px
+}
+
+.skillitem{
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 900;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+}
+.htmlSkill{
+    width: 20vw;
+    height: 1vh;
+    background-color: red;
+    border: 2px solid black;
+}
+
+.hundred{
+    width: 20vw;
+}
+
+.fifty{
+    width: 10vw;
+}
+.twentyfive{
+    width: 5vw;
+}
